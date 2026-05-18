@@ -1,4 +1,4 @@
-# Hola, soy Mateo Ramos
+# Mateo Ramos
 
 Desarrollador junior de Buenos Aires, Argentina, enfocado en automatizacion de procesos operativos, herramientas internas, gestion de datos y desarrollo web.
 
