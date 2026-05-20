@@ -4,7 +4,7 @@ Desarrollador junior de Buenos Aires, Argentina, enfocado en automatizacion de p
 
 Trabajo principalmente con Python, TypeScript, Google Apps Script, SQL y herramientas web modernas. Me interesa construir soluciones simples, mantenibles y utiles para reducir trabajo manual, ordenar datos y mejorar flujos operativos reales.
 
-## En que vengo trabajando
+## Mis proyectos
 
 - **Menu digital QR para catering**  
   Aplicacion web con Astro, TypeScript, Tailwind CSS, Supabase, PostgreSQL y Vercel. Incluye menus por sede, contenido estructurado, panel administrativo interno, permisos operativos, validaciones SQL y publicacion controlada.
