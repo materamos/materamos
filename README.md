@@ -53,5 +53,4 @@ Construyo soluciones practicas para problemas operativos reales: automatizacione
 ## Contacto
 
 - LinkedIn: [linkedin.com/in/mateoramoslink](https://www.linkedin.com/in/mateoramoslink/)
-- GitHub: [github.com/materamos](https://github.com/materamos)
 - Email: [mate.rojo.02@gmail.com](mailto:mate.rojo.02@gmail.com)
