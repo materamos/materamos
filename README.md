@@ -4,6 +4,16 @@ Desarrollador junior de Buenos Aires, Argentina, enfocado en automatizacion de p
 
 Trabajo principalmente con Python, TypeScript, Google Apps Script, SQL y herramientas web modernas. Me interesa construir soluciones simples, mantenibles y utiles para reducir trabajo manual, ordenar datos y mejorar flujos operativos reales.
 
+## Stack visual
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
 ## Mis proyectos
 
 - **Menu digital QR para catering**  
