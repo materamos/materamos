@@ -2,7 +2,7 @@
 
 Desarrollador enfocado en automatizacion de procesos operativos, herramientas internas, gestion de datos y desarrollo web.
 
-Construyo soluciones practicas para reducir trabajo manual, ordenar informacion y convertir procesos repetitivos en herramientas simples de usar y mantener.
+Construyo soluciones practicas para problemas operativos reales: automatizaciones con Python y Google Apps Script, herramientas web con TypeScript, datos en SQL/PostgreSQL y flujos simples para reducir trabajo manual.
 
 ## Stack
 
@@ -30,25 +30,17 @@ Construyo soluciones practicas para reducir trabajo manual, ordenar informacion 
 
 ## Proyectos destacados
 
-- **autowhatsapp**  
-  Automatizacion supervisada en Python para flujos repetitivos sobre navegador, con foco en ejecucion controlada, trazabilidad y reduccion de trabajo manual.
+- **Automatizacion supervisada de navegador**  
+  CLI en Python para gestionar grupos, mensajes y configuracion en flujos operativos repetitivos. Usa Selenium, perfil persistente, pausas variables, logs, reintentos, persistencia local y pruebas automatizadas. Es una herramienta pensada para ejecucion supervisada y uso estable en el tiempo.
 
-- **El Faraon Catering**  
-  Menu digital QR mobile-first para catering, construido con Astro, TypeScript, Tailwind CSS, Supabase, PostgreSQL y Vercel.
+- **Menu digital QR para catering**  
+  Aplicacion web mobile-first con Astro, TypeScript, Tailwind CSS, Supabase, PostgreSQL y Vercel. Incluye menus por sede, contenido estructurado, panel administrativo interno, permisos operativos, validaciones SQL y publicacion controlada. La arquitectura separa contenido estable en build-time y disponibilidad operativa en runtime para mantener el sitio rapido y barato de servir.
 
-- **SalesScript + FinancesScript**  
-  Automatizaciones en TypeScript y Google Apps Script para ordenar datos operativos y financieros en Google Sheets, con build local y despliegue controlado.
+- **Automatizacion de stock y dashboard en Google Sheets**  
+  Proyecto con TypeScript, Google Apps Script, Google Sheets, npm, esbuild y clasp. Automatiza hojas fuente hacia reportes de stock y dashboard, con normalizacion de datos, validacion de filas, build local y despliegue controlado.
 
-- **Instagram Followers**  
-  Herramienta personal para procesar snapshots historicos y detectar cambios en seguidores a partir de comparaciones entre estados.
-
-## Otros proyectos
-
-- **autoescuela**  
-  Landing web para escuela de manejo.
-
-- **Monte Etna**  
-  Landing puente entre Spotify y WhatsApp.
+- **Analisis de seguidores de Instagram**  
+  Herramienta personal con JavaScript, Tampermonkey y Python para extraer datos, generar snapshots historicos y detectar cambios entre seguidores a partir de comparaciones entre estados.
 
 ## Formacion
 
