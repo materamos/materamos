@@ -1,2 +1,5 @@
+# Codex local files
+/.codex-remote-attachments/
+
 # Agent scratch space
 /.agent-tmp/
