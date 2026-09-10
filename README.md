@@ -1,54 +1,45 @@
 # Mateo Ramos
 
-Desarrollador enfocado en automatización de procesos operativos, herramientas internas, gestión de datos y desarrollo web.
+Desarrollo herramientas web, automatizaciones y sistemas de datos para resolver problemas operativos concretos.
 
-Construyo soluciones prácticas para problemas operativos reales: automatizaciones con Python y Google Apps Script, herramientas web con TypeScript, datos en SQL/PostgreSQL y flujos simples para reducir trabajo manual.
+Mi recorrido combina experiencia en operaciones con desarrollo de productos propios y soluciones para clientes. Me interesa entender cómo funciona un proceso antes de convertirlo en software: qué necesita la persona que lo usa, qué puede simplificarse y qué tiene que seguir siendo confiable con el tiempo.
 
-## Stack
+## Tecnologías
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=googleappsscript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-**Lenguajes:** JavaScript, TypeScript, Python, SQL, HTML, CSS  
-**Frontend:** Astro, Tailwind CSS  
-**Datos y backend:** Supabase, PostgreSQL, RPCs, migraciones SQL  
-**Automatización:** Google Apps Script, Selenium, Google Sheets  
-**Calidad y herramientas:** pytest, typecheck, Git, GitHub, npm, Node.js, Vercel, clasp, esbuild, Power BI, Excel
+## Contexto profesional
 
-## Enfoque técnico
+Actualmente formo parte de [VNT](https://vntagencia.com), una agencia orientada al diseño y desarrollo de soluciones digitales a medida. Participo en proyectos desde su definición hasta su implementación y puesta en marcha.
 
-- Automatización de tareas repetitivas y procesos operativos manuales.
-- Modelado simple de datos, validaciones y controles internos.
-- Herramientas internas con interfaces claras y bajo mantenimiento.
-- Desarrollo web mobile-first con contenido estructurado y despliegues simples.
-- Logs, pruebas y manejo de errores para procesos que corren en contextos reales.
+## Trabajo seleccionado
 
-## Proyectos destacados
+### El Faraón Catering
 
-- **Automatización supervisada de navegador**  
-  CLI en Python para gestionar grupos, mensajes y configuración en flujos operativos repetitivos. Usa Selenium, perfil persistente, pausas variables, logs, reintentos, persistencia local y pruebas automatizadas. Es una herramienta pensada para ejecución supervisada y uso estable en el tiempo.
+Proyecto web desarrollado desde VNT para digitalizar la experiencia de menú de un servicio de catering. El producto está terminado, se encuentra en producción y forma parte de la operación diaria, con una experiencia mobile-first y contenido administrable por el equipo.
 
-- **Menú digital QR para catering**  
-  Aplicación web mobile-first con Astro, TypeScript, Tailwind CSS, Supabase, PostgreSQL y Vercel. Incluye menús por sede, contenido estructurado, panel administrativo interno, permisos operativos, validaciones SQL y publicación controlada. La arquitectura separa contenido estable en build-time y disponibilidad operativa en runtime para mantener el sitio rápido y barato de servir.
+**Tecnologías:** Astro, TypeScript, Supabase, PostgreSQL y Vercel.
 
-- **Automatización de stock y dashboard en Google Sheets**  
-  Proyecto con TypeScript, Google Apps Script, Google Sheets, npm, esbuild y clasp. Automatiza hojas fuente hacia reportes de stock y dashboard, con normalización de datos, validación de filas, build local y despliegue controlado.
+[Ver menú](https://elfaraoncatering.com.ar/menu/corpo/)
 
-- **Análisis de seguidores de Instagram**  
-  Herramienta personal con JavaScript, Tampermonkey y Python para extraer datos, generar snapshots históricos y detectar cambios entre seguidores a partir de comparaciones entre estados.
+### Automatización supervisada de navegador
 
-## Formación
+Proyecto personal en Python para automatizar de forma manual y supervisada envíos a grupos de WhatsApp Web desde una interfaz de línea de comandos. Permite gestionar grupos, mensajes y configuración, con persistencia local, registros, recuperación acotada ante errores y pruebas automatizadas.
 
-- Diplomatura en Python, UTN
-- Ciencia de Datos, CoderHouse
-- Power BI, CoderHouse
-- Procesamiento de Datos en Excel, CoderHouse
-- Bachiller en Informática
+**Tecnologías:** Python, Selenium, CLI y JSON.
+
+## Enfoque
+
+- Automatización de procesos repetitivos y tareas operativas.
+- Desarrollo de productos web claros, rápidos y adaptables a distintos dispositivos.
+- Modelado y validación de datos en herramientas que puedan mantenerse en el tiempo.
 
 ## Contacto
 
