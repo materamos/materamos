@@ -9,3 +9,4 @@
 
 # Agent scratch space
 /.agent-tmp/
+/docs/project-context.local.md
