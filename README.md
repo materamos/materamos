@@ -1,8 +1,8 @@
 # Mateo Ramos
 
-Desarrollador enfocado en automatizacion de procesos operativos, herramientas internas, gestion de datos y desarrollo web.
+Desarrollador enfocado en automatización de procesos operativos, herramientas internas, gestión de datos y desarrollo web.
 
-Construyo soluciones practicas para problemas operativos reales: automatizaciones con Python y Google Apps Script, herramientas web con TypeScript, datos en SQL/PostgreSQL y flujos simples para reducir trabajo manual.
+Construyo soluciones prácticas para problemas operativos reales: automatizaciones con Python y Google Apps Script, herramientas web con TypeScript, datos en SQL/PostgreSQL y flujos simples para reducir trabajo manual.
 
 ## Stack
 
@@ -17,12 +17,12 @@ Construyo soluciones practicas para problemas operativos reales: automatizacione
 **Lenguajes:** JavaScript, TypeScript, Python, SQL, HTML, CSS  
 **Frontend:** Astro, Tailwind CSS  
 **Datos y backend:** Supabase, PostgreSQL, RPCs, migraciones SQL  
-**Automatizacion:** Google Apps Script, Selenium, Google Sheets  
+**Automatización:** Google Apps Script, Selenium, Google Sheets  
 **Calidad y herramientas:** pytest, typecheck, Git, GitHub, npm, Node.js, Vercel, clasp, esbuild, Power BI, Excel
 
-## Enfoque tecnico
+## Enfoque técnico
 
-- Automatizacion de tareas repetitivas y procesos operativos manuales.
+- Automatización de tareas repetitivas y procesos operativos manuales.
 - Modelado simple de datos, validaciones y controles internos.
 - Herramientas internas con interfaces claras y bajo mantenimiento.
 - Desarrollo web mobile-first con contenido estructurado y despliegues simples.
@@ -30,25 +30,25 @@ Construyo soluciones practicas para problemas operativos reales: automatizacione
 
 ## Proyectos destacados
 
-- **Automatizacion supervisada de navegador**  
-  CLI en Python para gestionar grupos, mensajes y configuracion en flujos operativos repetitivos. Usa Selenium, perfil persistente, pausas variables, logs, reintentos, persistencia local y pruebas automatizadas. Es una herramienta pensada para ejecucion supervisada y uso estable en el tiempo.
+- **Automatización supervisada de navegador**  
+  CLI en Python para gestionar grupos, mensajes y configuración en flujos operativos repetitivos. Usa Selenium, perfil persistente, pausas variables, logs, reintentos, persistencia local y pruebas automatizadas. Es una herramienta pensada para ejecución supervisada y uso estable en el tiempo.
 
-- **Menu digital QR para catering**  
-  Aplicacion web mobile-first con Astro, TypeScript, Tailwind CSS, Supabase, PostgreSQL y Vercel. Incluye menus por sede, contenido estructurado, panel administrativo interno, permisos operativos, validaciones SQL y publicacion controlada. La arquitectura separa contenido estable en build-time y disponibilidad operativa en runtime para mantener el sitio rapido y barato de servir.
+- **Menú digital QR para catering**  
+  Aplicación web mobile-first con Astro, TypeScript, Tailwind CSS, Supabase, PostgreSQL y Vercel. Incluye menús por sede, contenido estructurado, panel administrativo interno, permisos operativos, validaciones SQL y publicación controlada. La arquitectura separa contenido estable en build-time y disponibilidad operativa en runtime para mantener el sitio rápido y barato de servir.
 
-- **Automatizacion de stock y dashboard en Google Sheets**  
-  Proyecto con TypeScript, Google Apps Script, Google Sheets, npm, esbuild y clasp. Automatiza hojas fuente hacia reportes de stock y dashboard, con normalizacion de datos, validacion de filas, build local y despliegue controlado.
+- **Automatización de stock y dashboard en Google Sheets**  
+  Proyecto con TypeScript, Google Apps Script, Google Sheets, npm, esbuild y clasp. Automatiza hojas fuente hacia reportes de stock y dashboard, con normalización de datos, validación de filas, build local y despliegue controlado.
 
-- **Analisis de seguidores de Instagram**  
-  Herramienta personal con JavaScript, Tampermonkey y Python para extraer datos, generar snapshots historicos y detectar cambios entre seguidores a partir de comparaciones entre estados.
+- **Análisis de seguidores de Instagram**  
+  Herramienta personal con JavaScript, Tampermonkey y Python para extraer datos, generar snapshots históricos y detectar cambios entre seguidores a partir de comparaciones entre estados.
 
-## Formacion
+## Formación
 
 - Diplomatura en Python, UTN
 - Ciencia de Datos, CoderHouse
 - Power BI, CoderHouse
 - Procesamiento de Datos en Excel, CoderHouse
-- Bachiller en Informatica
+- Bachiller en Informática
 
 ## Contacto
 
